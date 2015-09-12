@@ -12,7 +12,7 @@ _Review my work and tell me what you think. Lets make awesome stuff together!_
 
 >[Visit my page](http://nathanromike.github.io/About/)
 
-_Dealer's choice of browser, but my favorite is [Chrome](www.google.com/chrome/)._
+_User's choice of browser, but my favorite is [Chrome](www.google.com/chrome/)._
 
 ## Technologies Used
 
