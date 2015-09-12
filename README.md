@@ -1,12 +1,12 @@
 # Page about Nathan Romike
 
-##### This page is about me, as of September 2015.
+##### This page is about me. Original draft September 2015.
 
 #### By me, **Nathan Romike**
 
 ## Description
 
-_Review my work and tell me what you think. Lets make awesome stuff together!_
+Review my work and tell me what you think. Lets make **awesome** stuff together!
 
 ## Setup
 
