@@ -1,0 +1,12 @@
+body {
+    background-image:image(img/wood.jpeg);
+    background-color: #333333;
+}
+
+
+
+IMG.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
