@@ -2,7 +2,6 @@
 
 body {
   font-family: “Century Gothic”, CenturyGothic, AppleGothic, sans-serif;
-
 }
 
 h1 {
@@ -21,14 +20,20 @@ h2 {
   text-align: center;
 }
 
-p {
+strong {
+  font-size:25px;
+  font-family: monospace;
+  color: #00ced1
+}
+
+a {
+  color: #125ca2;
 }
 
 ul.links {
   text-align: center;
   font-size:25px;
   line-height: 10px;
-  letter-spacing: -0.5px;
 }
 
 IMG.centered {
