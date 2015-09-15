@@ -41,3 +41,16 @@ ul.links {
   font-size:25px;
   line-height: 10px;
 }
+
+.cv h2 {
+  color: #444;
+  font-size: 20px;
+  text-align: left;
+
+}
+
+.midlist {
+  float: left;
+  width: 300px;
+
+}
