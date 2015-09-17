@@ -49,6 +49,12 @@ ul.links {
 
 }
 
+.column {
+  float: left;
+  width: 300px;
+
+}
+
 .midlist {
   float: left;
   width: 300px;
