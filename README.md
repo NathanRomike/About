@@ -1,8 +1,6 @@
-# Page about Nathan Romike
+# Page about me
 
 ##### Original draft September 2015.
-
-#### By me, **Nathan Romike**
 
 ## Description
 
@@ -12,7 +10,6 @@ Review my work and tell me what you think. Lets make **awesome** stuff together!
 
 >[Visit my page](http://nathanromike.github.io/about/)
 
-
 ## Technologies Used
 
 * HTML
@@ -20,9 +17,7 @@ Review my work and tell me what you think. Lets make **awesome** stuff together!
 * Markdown
 * Bootstrap
 
-
 ### Legal
-
 
 Copyright (c) 2016 **_Nathan Romike_**
 
