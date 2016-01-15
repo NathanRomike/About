@@ -1,6 +1,6 @@
 # Page about Nathan Romike
 
-##### This page is about me. Original draft September 2015.
+##### Original draft September 2015.
 
 #### By me, **Nathan Romike**
 
@@ -12,20 +12,19 @@ Review my work and tell me what you think. Lets make **awesome** stuff together!
 
 >[Visit my page](http://nathanromike.github.io/about/)
 
-_User's choice of browser, but my favorite is [Chrome](www.google.com/chrome/)._
 
 ## Technologies Used
 
 * HTML
 * CSS
 * Markdown
-* Git
+* Bootstrap
 
 
 ### Legal
 
 
-Copyright (c) 2015 **_Nathan Romike_**
+Copyright (c) 2016 **_Nathan Romike_**
 
 This software is licensed under the MIT license.
 
