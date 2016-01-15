@@ -10,7 +10,7 @@ Review my work and tell me what you think. Lets make **awesome** stuff together!
 
 ## Setup
 
->[Visit my page](http://nathanromike.github.io/About/)
+>[Visit my page](http://nathanromike.github.io/about/)
 
 _User's choice of browser, but my favorite is [Chrome](www.google.com/chrome/)._
 
