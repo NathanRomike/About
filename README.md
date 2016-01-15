@@ -16,7 +16,7 @@ Review my work and tell me what you think. Lets make **awesome** stuff together!
 * CSS
 * Bootstrap
 
-### Legal
+## Legal
 
 Copyright (c) 2016 **_Nathan Romike_**
 
