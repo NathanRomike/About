@@ -14,7 +14,6 @@ Review my work and tell me what you think. Lets make **awesome** stuff together!
 
 * HTML
 * CSS
-* Markdown
 * Bootstrap
 
 ### Legal
