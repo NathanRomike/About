@@ -1,12 +1,6 @@
 # Page about me
 
-##### Original draft September 2015.
-
-## Description
-
-Review my work and tell me what you think. Lets make **awesome** stuff together!
-
-## Setup
+##### Draft September 2015.
 
 >[Visit my page](http://nathanromike.github.io/about/)
 
