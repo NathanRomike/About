@@ -1,6 +1,4 @@
-# Page about me
-
-##### Draft September 2015.
+# Page about me.
 
 >[Visit my page](http://nathanromike.github.io/about/)
 
@@ -9,6 +7,7 @@
 * HTML
 * CSS
 * Bootstrap
+* Javascript
 
 ## Legal
 
