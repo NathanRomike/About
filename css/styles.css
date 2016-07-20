@@ -26,6 +26,11 @@ footer {
   font-size:20px;
 }
 
-.center {
+.col-md-12 {
   text-align: center;
+}
+
+.padding {
+  padding-top: 45px;
+  padding-bottom: 15px;
 }
