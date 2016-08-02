@@ -1,18 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <title>Nathan|Romike</title>
   </head>
   <body>
-    <div>
       <header>
-        <br>
         <h1>Nathan Romike</h1>
         <h2>{Creative Coder}</h2>
         <h3>Portland, OR</h3>
-        <a class="icon" href="mailto:nathanromike@gmail.com" target="_top">
+        <a class="icon" href="mailto:nathanromike@gmail.com">
           <img src="img/icons/email.png"></img>
         </a>
         <a class="icon" href="https://www.linkedin.com/in/nathanromike">
@@ -21,33 +18,41 @@
         <a class="icon" href="https://github.com/NathanRomike">
           <img src="img/icons/github.png"></img>
         </a>
-        <br>
-        <br>
       </header>
-      <div class="col-md-12">
-        <a href="https://green-sky.firebaseapp.com/">
-          <img src="img\f-64.png" alt="Photo of f/64">
-        </a>
+      <div class="carouselbox">
+        <div class="buttons">
+          <button class="prev"><<span class="offscreen">Previous</span>
+          </button>
+          <button class="next"><span class="offscreen">Next</span>>
+          </button>
+        </div>
+        <ol class="content">
+          <li>
+            <a href="https://green-sky.firebaseapp.com/">
+              <img src="img\f-64.png" alt="Photo of f/64">
+            </a>
+          </li>
+          <li>
+            <a href="https://weekends.firebaseapp.com/">
+              <img src="img\weekend.png" alt="Photo of Weekend Planner">
+            </a>
+          </li>
+          <li>
+            <a href="https://play.google.com/store/apps/details?id=com.epicodus.shake_it_up">
+              <img src="img\Shake-it.png" alt="Photo of Shake It Up">
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/NathanRomike/SnapMap">
+              <img src="img\snap.png" alt="Photo of Snap Map">
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/NathanRomike/Survivalists">
+              <img src="img\walker.png" alt="Photo of Walker Treker">
+            </a>
+          </li>
+        </ol>
       </div>
-      <div class="col-md-12">
-        <a href="https://weekends.firebaseapp.com/">
-          <img src="img\weekend.png" alt="Photo of Weekend Planner">
-        </a>
-      </div>
-      <div class="col-md-12">
-        <a href="https://play.google.com/store/apps/details?id=com.epicodus.shake_it_up">
-          <img src="img\Shake-it.png" alt="Photo of Shake It Up">
-        </a>
-      </div>
-      <div class="col-md-12">
-        <a href="https://github.com/NathanRomike/SnapMap">
-          <img src="img\snap.png" alt="Photo of Snap Map">
-        </a>
-      </div>
-      <div class="col-md-12 padding">
-        <a href="https://github.com/NathanRomike/Survivalists">
-          <img src="img\walker.png" alt="Photo of Walker Treker">
-        </a>
-      </div>
-    </div>
   </body>
+  <script src="js/scripts.js"></script>
