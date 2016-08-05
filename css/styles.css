@@ -3,6 +3,10 @@
   padding:0;
 }
 
+html.touch body {
+     overflow:hidden;
+}
+
 body {
   font-family: “Century Gothic”, CenturyGothic, AppleGothic, sans-serif;
   text-align: center;
