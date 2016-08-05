@@ -6,23 +6,24 @@
 body {
   font-family: “Century Gothic”, CenturyGothic, AppleGothic, sans-serif;
   text-align: center;
-  overflow: hidden;
 }
 
 h1 {
   color: #444;
-  padding-top: 10px;
+  padding-top: 15px;
   font-size: 70px;
   letter-spacing: -1px;
   line-height: 80%;
 }
 
 h2 {
+  padding-top: 5px;
   font-size: 30px;
   letter-spacing: -1px;
 }
 
 h3 {
+  padding: 5px;
   font-size: 20px;
 }
 
