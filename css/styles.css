@@ -52,6 +52,7 @@ button {
   border: 0;
   background: transparent;
   font-size: 70px;
+  cursor: pointer;
 }
 
 .prev {
