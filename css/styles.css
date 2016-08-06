@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  font-family: “Century Gothic”, CenturyGothic, AppleGothic, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@ h1 {
   color: #444;
   padding-top: 35px;
   font-size: 80px;
-  letter-spacing: -1px;
+  letter-spacing: -7px;
   line-height: 80%;
 }
 
@@ -94,7 +94,8 @@ button {
 
 @media (min-width: 600px) {
   h1 {
-    font-size: 55px;
+    font-size: 75px;
+    letter-spacing: -4px;
   }
 
   h2 {
