@@ -6,7 +6,6 @@
 
 * HTML
 * CSS
-* Bootstrap
 * Javascript
 
 ## Legal
