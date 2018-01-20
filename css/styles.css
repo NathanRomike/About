@@ -4,8 +4,7 @@
 }
 
 html {
-  background: url(https://images.unsplash.com/photo-1464618663641-bbdd760ae84a?dpr=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=) no-repeat center center fixed;
-  /*background: linear-gradient(to bottom, rgba(157,213,58,0) 78%,rgba(105,194,79,0) 83%,rgba(95,190,83,0.48) 84%,rgba(0,157,121,0.48) 93%,rgba(0,157,121,0.48) 94%) no-repeat center center fixed;*/
+  background: url(background.jpeg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
